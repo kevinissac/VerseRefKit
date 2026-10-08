@@ -1,4 +1,16 @@
-# VerseRefKit
+<p align="center">
+  <img src="assets/logo.png" alt="VerseRefKit logo" width="160">
+</p>
+
+<h1 align="center">VerseRefKit</h1>
+
+<p align="center">
+  <a href="https://github.com/kevinissac/VerseRefKit/releases"><img alt="Release" src="https://img.shields.io/github/v/release/kevinissac/VerseRefKit"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/kevinissac/VerseRefKit"></a>
+  <a href="https://jitpack.io/#kevinissac/VerseRefKit"><img alt="JitPack" src="https://jitpack.io/v/kevinissac/VerseRefKit.svg"></a>
+  <img alt="Swift Package Manager" src="https://img.shields.io/badge/Swift_Package_Manager-compatible-F05138?logo=swift&logoColor=white">
+  <img alt="Platforms" src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS-blue">
+</p>
 
 ## What is this package?
 
