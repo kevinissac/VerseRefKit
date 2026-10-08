@@ -1,0 +1,9 @@
+.gradle/
+build/
+.build/
+.swiftpm/
+.idea/
+*.iml
+local.properties
+.DS_Store
+xcuserdata/
