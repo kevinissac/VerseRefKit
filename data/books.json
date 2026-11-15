@@ -1871,6 +1871,384 @@
     27,
     21
    ]
+  },
+  {
+   "code": "TOB",
+   "name": "Tobit",
+   "aliases": [
+    "tob"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "JDT",
+   "name": "Judith",
+   "aliases": [
+    "jdt",
+    "jdth"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "ESG",
+   "name": "Esther (Greek)",
+   "aliases": [
+    "esg"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "WIS",
+   "name": "Wisdom of Solomon",
+   "aliases": [
+    "wis",
+    "wisdom"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "SIR",
+   "name": "Sirach",
+   "aliases": [
+    "ecclesiasticus",
+    "ben sira"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "BAR",
+   "name": "Baruch",
+   "aliases": [],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "LJE",
+   "name": "Letter of Jeremiah",
+   "aliases": [
+    "lje",
+    "epistle of jeremiah"
+   ],
+   "verses": [
+    0
+   ]
+  },
+  {
+   "code": "S3Y",
+   "name": "Prayer of Azariah",
+   "aliases": [
+    "s3y",
+    "song of the three"
+   ],
+   "verses": [
+    0
+   ]
+  },
+  {
+   "code": "SUS",
+   "name": "Susanna",
+   "aliases": [],
+   "verses": [
+    0
+   ]
+  },
+  {
+   "code": "BEL",
+   "name": "Bel and the Dragon",
+   "aliases": [],
+   "verses": [
+    0
+   ]
+  },
+  {
+   "code": "1MA",
+   "name": "1 Maccabees",
+   "aliases": [
+    "1 macc",
+    "1macc",
+    "1 mac",
+    "1ma"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "2MA",
+   "name": "2 Maccabees",
+   "aliases": [
+    "2 macc",
+    "2macc",
+    "2 mac",
+    "2ma"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "3MA",
+   "name": "3 Maccabees",
+   "aliases": [
+    "3 macc",
+    "3macc",
+    "3 mac",
+    "3ma"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "4MA",
+   "name": "4 Maccabees",
+   "aliases": [
+    "4 macc",
+    "4macc",
+    "4 mac",
+    "4ma"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "1ES",
+   "name": "1 Esdras",
+   "aliases": [
+    "1 esd",
+    "1esd",
+    "1es"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "2ES",
+   "name": "2 Esdras",
+   "aliases": [
+    "2 esd",
+    "2esd",
+    "2es"
+   ],
+   "verses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "MAN",
+   "name": "Prayer of Manasseh",
+   "aliases": [
+    "pr man",
+    "prayer of manasses"
+   ],
+   "verses": [
+    0
+   ]
+  },
+  {
+   "code": "PS2",
+   "name": "Psalm 151",
+   "aliases": [],
+   "verses": [
+    0
+   ]
   }
  ],
  "codeAliases": {
